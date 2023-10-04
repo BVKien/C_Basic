@@ -1,0 +1,24 @@
+
+Đặc biệt lưu ý không được viết tiếng việt có dấu trong bài làm 
+cũng như không được có tiếng việt trong đường dẫn nộp bài
+
+ví dụ
++ đường dẫn đúng: C:PE/SU23Solution/.....
++ đường dẫn sai: C:Bài Làm/Câu 1/....
+
+nói chung là ko đc tiếng việt có dấu
+
+Số lượng đề làm: 3
+Nội dung chính bài thi hầu hết là thế này
+=============================
+tính toán
+if else 
+count -> đếm chẵn lẻ 
+vẽ hình
+Sắp xếp chẵn lẻ các thứ
+String -> viết hoa thường 
+Tìm index số có tổng = ?
+swap chãn lẻ max min
+Định dạng chuỗi + space
+check
+=============================

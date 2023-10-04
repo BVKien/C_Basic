@@ -1,0 +1,42 @@
+
+Đặc biệt lưu ý không được viết tiếng việt có dấu trong bài làm 
+cũng như không được có tiếng việt trong đường dẫn nộp bài
+
+ví dụ
++ đường dẫn đúng: C:PE/SU23Solution/.....
++ đường dẫn sai: C:Bài Làm/Câu 1/....
+
+nói chung là ko đc tiếng việt có dấu
+
+ok chúc ae thi tốt. Nếu ae thấy oke thì cho tôi xin 1 comment và giới thiệu đến bạn bè nhé.
+
+Số lượng đề làm trong file này: 3
+Nội dung chủ yếu bài thi xoay quanh
+=============================
+tính toán
+if else 
+count -> đếm chẵn lẻ 
+vẽ hình
+Sắp xếp chẵn lẻ các thứ
+String -> viết hoa thường 
+Tìm index số có tổng = ?
+swap chãn lẻ max min
+Định dạng chuỗi + space
+check
+=============================
+
+
+=============================
+echo "# C_Programming" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/BVKien/C_Programming.git
+git push -u origin main
+
+
+
+git remote add origin https://github.com/BVKien/C_Programming.git
+git branch -M main
+git push -u origin main
