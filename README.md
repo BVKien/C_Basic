@@ -2,7 +2,7 @@
 This is my summary C Programmingall Practice Exam Full 10 points for you guys. Hope you can see it, get high score and have great learning career ;).
 
 # Using
-git init
+- git init
 git add README.md
 git commit -m "first commit"
 git branch -M main
